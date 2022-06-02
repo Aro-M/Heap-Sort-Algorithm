@@ -1,1 +1,1 @@
-# Heap-Data-Structure
+# Heap-Data-Algorithm
